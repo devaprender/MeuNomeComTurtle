@@ -35,6 +35,3 @@ Vou te ensinar tudo isso [neste curso](http://b.link/GitHub_curso_automacao), sa
 2. Clique em Download ZIP
 
     ![step2](images/step2.png)
-
----
-
